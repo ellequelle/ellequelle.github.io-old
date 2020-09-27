@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: 
+name: elle hanson
 
 # Name of the author
-author: elle
+author: elle hanson
 
 # Short bio or description (displayed in the header)
-description: An elegant Jekyll theme
+description: # An elegant Jekyll theme
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -24,11 +24,11 @@ footer-links:
   email: elleh3113@gmail.com
   facebook:
   flickr:
-  github: 
+  github: ellequelle
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
+  rss: # rss
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
