@@ -21,6 +21,6 @@ This is a plug-and-play graduate student that you can use without even setting u
 - Interested in critical theory
 - Free opinions upon request
 - No social media included
-- Into maps
+- Into maps and [type](https://www.theleagueofmoveabletype.com)
 
 Learn more about her [here](https://ellequelle.github.io).
