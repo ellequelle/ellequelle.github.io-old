@@ -14,10 +14,9 @@ This is a plug-and-play graduate student that you can use without even setting u
 - Studies the atmospheres of planets using numerical models, theory, and [observational](https://solarsystem.nasa.gov/missions/mars-reconnaissance-orbiter/in-depth/) [data](https://solarsystem.nasa.gov/missions/cassini/overview/)
 - Fortran 77, 90, and 95 support using [gcc](https://gcc.gnu.org), and [emacs](https://www.gnu.org/software/emacs/)
 - Scientific python developer and [IPython](https://ipython.org) user
-- Markdown proficient, mostly in [Jupyter](https://jupyter.org)
-- Enthusiasm for learning works out-of-the-box
-- Enthusiasm for teaching works out-of-the-box
-- Slowly responsive and immobile apartment-dweller
+- Occasional user of [Jupyter](https://jupyter.org)
+- [Julia](https://julialang.org)-curious
+- Enthusiasm for learning and teaching works out-of-the-box
 - Interested in critical theory
 - Free opinions upon request
 - No social media included
