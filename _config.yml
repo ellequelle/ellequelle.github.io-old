@@ -32,7 +32,6 @@ footer-links:
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
   playconsole:
 
 
@@ -45,8 +44,8 @@ google_analytics:
 
 # Your website URL (e.g. http://amitmerchant1990.github.io or http://www.amitmerchant.com)
 # Used for Sitemap.xml and your RSS feed
-url: 
-enforce_ssl: 
+url: https://ellequelle.github.io
+enforce_ssl: https://ellequelle.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
