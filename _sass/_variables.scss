@@ -19,6 +19,12 @@ $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
 
+$garamond: 'EB Garamond', serif;
+$lora: 'Lora', serif;
+$montserrat: 'Montserrat', sans-serif;
+$ovo: 'Ovo', serif;
+$simonetta: 'Simonetta', cursive, sans-serif;
+
 // Mobile breakpoints
 @mixin mobile {
   @media screen and (max-width: 640px) {
