@@ -8,8 +8,7 @@ Elle
 ([L. E. Hanson](https://scholar.google.com/citations?user=4Q3F054AAAAJ))
 is a [earth and planetary science](https://eps.jhu.edu/people/graduate-students/) graduate student
 designed to study the atmospheres of Earth and other worlds. She's a fork of
-[Darryn Waugh](https://eps.jhu.edu/directory/darryn-waugh/) with alterations
-modifications reflecting [her](https://www.luther.edu) [diverse](http://www.met.psu.edu) [background](https://science.gsfc.nasa.gov/solarsystem/).
+[Darryn Waugh](https://eps.jhu.edu/directory/darryn-waugh/) with modifications reflecting [her](https://www.luther.edu) [diverse](http://www.met.psu.edu) [background](https://science.gsfc.nasa.gov/solarsystem/).
 
 [//]: # (This is a plug-and-play graduate student that you can use without even setting up a local environment.)
 
