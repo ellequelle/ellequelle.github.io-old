@@ -4,22 +4,26 @@ title: About
 permalink: /about/
 ---
 
-[Elle](https://ellequelle.github.io) is a graduate student who is simple and opinionated. She's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now), which is a fork of [reverie](https://github.com/amitmerchant1990/reverie) with some modifications and personal alterations which I've implemented to suit my needs.
+Elle
+([L. E. Hanson](https://scholar.google.com/citations?user=4Q3F054AAAAJ))
+is a [earth and planetary science](https://eps.jhu.edu/people/graduate-students/) graduate student
+designed to study the atmospheres of Earth and other worlds. She's a fork of
+[Darryn Waugh](https://eps.jhu.edu/directory/darryn-waugh/) with alterations
+modifications reflecting [her](https://www.luther.edu) [diverse](http://www.met.psu.edu) [background](https://science.gsfc.nasa.gov/solarsystem/).
 
-This is a plug-and-play graduate student that you can use without even setting up a local environment.
+[//]: # (This is a plug-and-play graduate student that you can use without even setting up a local environment.)
 
 ## Features
 
-- Command-line fluent scientist, using [GitHub.com](https://github.com/ellequelle) to occasionally share code with the world
-- Studies the atmospheres of planets using numerical models, theory, and [observational](https://solarsystem.nasa.gov/missions/mars-reconnaissance-orbiter/in-depth/) [data](https://solarsystem.nasa.gov/missions/cassini/overview/)
+- Studies ice clouds on Earth and elsewhere in the solar system using numerical models, theory, and [observational](https://solarsystem.nasa.gov/missions/mars-reconnaissance-orbiter/in-depth/) [data](https://solarsystem.nasa.gov/missions/cassini/overview/)
 - Fortran 77, 90, and 95 support using [gcc](https://gcc.gnu.org), and [emacs](https://www.gnu.org/software/emacs/)
-- Scientific python developer and [IPython](https://ipython.org) user
-- Occasional user of [Jupyter](https://jupyter.org)
-- [Julia](https://julialang.org)-curious
-- Enthusiasm for learning and teaching works out-of-the-box
-- Interested in critical theory
-- Free opinions upon request
+- Support for scientific python and [IPython](https://ipython.org), partial support for [Jupyter](https://jupyter.org)
+- Potential future [Julia](https://julialang.org) functionality
+- Command-line scientist compatible with MacOS and linux
+- Active development around learning and teaching
+- Alternate modes include critical theory
 - No social media included
-- Into maps and [type](https://www.theleagueofmoveabletype.com)
 
-Learn more about her [here](https://ellequelle.github.io).
+[//]: # (- Into maps)
+
+[//]: # (Learn more about her [here](https://ellequelle.github.io).)
